@@ -4,7 +4,7 @@ The aim is to promoting collaboration on social impact related accounting resear
 
 # Main topics:
 
-[Technology](https://github.com/chillylin/Accounting_Social_Impact_Wiki/blob/main/topics/technology.md), [Sustainability](https://github.com/chillylin/Accounting_Social_Impact_Wiki/blob/main/topics/Sustainability.md), Diversity
+[Technology](https://github.com/chillylin/Accounting_Social_Impact_Wiki/blob/main/topics/Technology.md), [Sustainability](https://github.com/chillylin/Accounting_Social_Impact_Wiki/blob/main/topics/Sustainability.md), Diversity
 
 # Recent news:
 
