@@ -4,7 +4,7 @@ The aim is to promoting collaboration on social impact related accounting resear
 
 # Main topics:
 
-[Technology](/topics/Technology.md), Sustainability, Diversity
+[Technology](/topics/Technology.md), [Sustainability](/topics/Sustainability.md), Diversity
 
 # Recent news:
 
