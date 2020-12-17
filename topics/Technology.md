@@ -1,7 +1,7 @@
 
 # Technology
 
-( Introductions0
+( Introductions )
 
 ## Pages in this topic
 
