@@ -4,6 +4,7 @@
 
 ## Type of studies in analytics 
 (different types listed here)
+testing
 
 ## Papers
 ( Some references )
